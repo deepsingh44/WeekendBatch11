@@ -1,4 +1,4 @@
 
-public class Milk extends Product{
+public class Milk extends CommonProduct{
 
 }

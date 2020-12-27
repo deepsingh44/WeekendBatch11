@@ -1,4 +1,4 @@
 
-public class Water  extends Product{
+public class Water  extends CommonProduct{
 
 }

@@ -1,4 +1,4 @@
 
-public class Coffee extends Product{
+public class Coffee extends CommonProduct{
 
 }

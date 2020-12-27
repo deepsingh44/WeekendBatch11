@@ -1,4 +1,4 @@
 
-public class Sugar  extends Product {
+public class Sugar  extends CommonProduct {
 
 }
